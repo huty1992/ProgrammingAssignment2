@@ -16,7 +16,7 @@ list(set=set,get=get,setInverse=setInverse,getInverse=getInverse)
 }
 
 
-## invert the matrix if it was never inverted before as previously examined
+## invert the matrix if it was never inverted before as examined
 
 
 cacheSolve<-function(matrix0,...){
